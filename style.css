@@ -1,0 +1,39 @@
+.maincon1{
+    display: flex;
+    flex-direction: row;
+    
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+    
+}
+.box{
+    border:none;width: 100%;height:fit-content;
+}
+.box9{
+    border:none;width: 100%;
+    height:fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.smallbox{
+    flex-direction: row;
+    display: flex;
+
+}
+.boxx{
+    border: none;
+    width: 100%;height:160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.box32{
+    display: flex;
+    flex-direction: row;
+    
+
+}
